@@ -6,7 +6,10 @@
 
 ## 📊 Problem-solving progress
 
-![HackerRank](https://img.shields.io/github/directory-file-count/Joomen10/SQL?label=HackerRank&path=HackerRank)
-![LeetCode](https://img.shields.io/github/directory-file-count/Joomen10/SQL?label=LeetCode&path=LeetCode)
-![programmers](https://img.shields.io/github/directory-file-count/Joomen10/SQL?label=programmers&path=programmers)
-![DataLemur](https://img.shields.io/github/directory-file-count/Joomen10/SQL?label=DataLemur&path=DataLemur)
+| Platform | Problems solved |
+|----------|-----------------|
+| ![HackerRank](https://img.shields.io/github/directory-file-count/Joomen10/SQL?path=HackerRank&extension=sql) | |
+| ![LeetCode](https://img.shields.io/github/directory-file-count/Joomen10/SQL?path=LeetCode&extension=sql)     | |
+| ![programmers](https://img.shields.io/github/directory-file-count/Joomen10/SQL?path=programmers&extension=sql) | |
+| ![DataLemur](https://img.shields.io/github/directory-file-count/Joomen10/SQL?path=DataLemur&extension=sql)   | |
+| **Total** | ![Total](https://img.shields.io/github/directory-file-count/Joomen10/SQL?extension=sql&label=All%20folders) |
