@@ -1,1 +1,5 @@
-# Leetcode-SQL
+# SQL Problems I Solve
+## HackerRank
+## programmers
+## LeetCode
+## DataLemur
