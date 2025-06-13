@@ -5,14 +5,8 @@
 ## DataLemur
 
 # run from the repo root
-printf "\n## Problem counts\n" >> README.md
+<!-- in README.md -->
+![HackerRank](https://img.shields.io/github/directory-file-count/Joomen10/your-repo?label=HackerRank&path=HackerRank)
+![LeetCode](https://img.shields.io/github/directory-file-count/Joomen10/your-repo?label=LeetCode&path=LeetCode)
+![programmers](https://img.shields.io/github/directory-file-count/Joomen10/your-repo?label=programmers&path=programmers)
 
-for dir in HackerRank LeetCode programmers DataLemur; do
-  if [ -d "$dir" ]; then
-    cnt=$(find "$dir" -type f -not -name 'README.md' | wc -l)
-    printf "- **%s**: %s problems\n" "$dir" "$cnt" >> README.md
-    total=$((total + cnt))
-  fi
-done
-
-printf "- **Total**: %s problems\n" "$total" >> README.md
