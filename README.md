@@ -5,6 +5,11 @@
 ## DataLemur
 
 ## 📊 Problem-solving progress
+<p align="center">
+  <img 
+    alt="Total problems" 
+    src="https://img.shields.io/github/directory-file-count/Joomen10/SQL?label=Total&style=flat-square&color=lightgrey"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/Joomen10/SQL/tree/main/HackerRank">
