@@ -4,9 +4,9 @@
 ## LeetCode
 ## DataLemur
 
-# run from the repo root
-<!-- in README.md -->
-![HackerRank](https://img.shields.io/github/directory-file-count/Joomen10/your-repo?label=HackerRank&path=HackerRank)
-![LeetCode](https://img.shields.io/github/directory-file-count/Joomen10/your-repo?label=LeetCode&path=LeetCode)
-![programmers](https://img.shields.io/github/directory-file-count/Joomen10/your-repo?label=programmers&path=programmers)
+## 📊 Problem-solving progress
 
+![HackerRank](https://img.shields.io/github/directory-file-count/Joomen10/SQL?label=HackerRank&path=HackerRank)
+![LeetCode](https://img.shields.io/github/directory-file-count/Joomen10/SQL?label=LeetCode&path=LeetCode)
+![programmers](https://img.shields.io/github/directory-file-count/Joomen10/SQL?label=programmers&path=programmers)
+![DataLemur](https://img.shields.io/github/directory-file-count/Joomen10/SQL?label=DataLemur&path=DataLemur)
